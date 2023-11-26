@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wlofy
-- 👀 I’m interested in youtube, cars and tech
-- 🌱 I’m currently learning C++, arduino
-- 💞️ I’m looking to collaborate on anything that is basic
-- 📫 How to reach me youtube: wlofy, twitter: poperacc
+- 👀 Make music, code, bots and friends (sometimes)
+- 🌱 I’m currently learning C++, Python, PyTorch, C, HTML and what not 
+- 💞️ I’m looking to collaborate on anything that is to my level of understanding but I am willing to push myself to learn new things
+- 📫 How to reach me youtube: wlof, twitter: wlof__
 
 <!---
 wlofy/wlofy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
