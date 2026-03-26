@@ -1,27 +1,28 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Initializing+Saad+Karim...;Full-Stack+Developer;Data+Engineer;ML+Explorer;System+Thinker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Saad+Karim;AI+Graduate;Machine+Learning+Enthusiast;Always+Learning" />
 </p>
 
 ```bash
-> booting system...
 > user: Saad Karim
-> role: developer / builder / explorer
+> field: Artificial Intelligence
+> status: exploring
 ```
 
-Hey there, I'm **Saad Karim** — I build systems that are fast, scalable, and sometimes dangerously experimental.
-I enjoy digging beneath abstractions, understanding how things *really* work, and pushing tech beyond its comfort zone.
+I'm a fresh Artificial Intelligence graduate from NUCES. I focus primarily on AI and everything around it — building, experimenting, and understanding how systems actually learn and behave.
 
-From full-stack development to machine learning and distributed systems — I operate with a simple loop:
+I have some experience across the web stack, but it's not my main focus. I use it when needed to support ideas, not as the end goal.
+
+Most of what I build comes from everyday problems or curiosity. Sometimes it's practical, sometimes it's completely pointless — but it’s always an excuse to learn something new.
 
 ```bash
-> build → break → analyze → optimize → repeat
+> approach: solve → experiment → learn → repeat
 ```
 
 ---
 
-<!-- 🧠 MATRIX RAIN BACKGROUND (SVG STYLE) -->
+<!-- 🧠 MATRIX / SNAKE VISUAL -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -31,7 +32,8 @@ From full-stack development to machine learning and distributed systems — I op
 
 <!-- 🎯 INSERT YOUR CUSTOM GIF HERE -->
 
-<!-- Example: ![GIF](your-link-here.gif) -->
+![hecker](https://github.com/user-attachments/assets/8dd82204-3913-4f9d-8981-a9bfb9acc15f)
+
 
 ---
 
@@ -77,7 +79,7 @@ From full-stack development to machine learning and distributed systems — I op
 
 ---
 
-# 🐍 Contribution Snake (Matrix Style):
+# 🐍 Contribution Snake:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -95,10 +97,7 @@ From full-stack development to machine learning and distributed systems — I op
 
 ```bash
 > tracking visitors...
-> anomaly detection: none
-> system status: stable
+> system stable
 ```
 
 [![](https://visitcount.itsvg.in/api?id=wlofy\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
-<!-- Hacker aesthetic enhanced: typing animation + snake + matrix vibe -->
