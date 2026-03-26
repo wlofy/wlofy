@@ -24,17 +24,10 @@ Most of what I build comes from everyday problems or curiosity. Sometimes it's p
 ---
 
 <!-- 🎯 INSERT YOUR CUSTOM GIF HERE -->
-<p allign="center">
-   ![hecker](https://github.com/user-attachments/assets/8dd82204-3913-4f9d-8981-a9bfb9acc15f)
-</p>
+![hecker](https://github.com/user-attachments/assets/8dd82204-3913-4f9d-8981-a9bfb9acc15f)
+
 
 ---
-
-<!-- 🧠 MATRIX / SNAKE VISUAL -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
 
