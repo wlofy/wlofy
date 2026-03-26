@@ -1,13 +1,13 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Saad+Karim;AI+Graduate;Machine+Learning+Enthusiast;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Saad+Karim;Chef;Cooking;Burnt+it;Always+Learning" />
 </p>
 
 ```bash
 > user: Saad Karim
 > field: Artificial Intelligence
-> status: exploring
+> status: Cooking
 ```
 
 I'm a fresh Artificial Intelligence graduate from NUCES. I focus primarily on AI and everything around it — building, experimenting, and understanding how systems actually learn and behave.
@@ -21,6 +21,14 @@ Most of what I build comes from everyday problems or curiosity. Sometimes it's p
 ```
 
 ---
+---
+
+<!-- 🎯 INSERT YOUR CUSTOM GIF HERE -->
+<p allign="center">
+   ![hecker](https://github.com/user-attachments/assets/8dd82204-3913-4f9d-8981-a9bfb9acc15f)
+</p>
+
+---
 
 <!-- 🧠 MATRIX / SNAKE VISUAL -->
 
@@ -28,14 +36,7 @@ Most of what I build comes from everyday problems or curiosity. Sometimes it's p
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
-<!-- 🎯 INSERT YOUR CUSTOM GIF HERE -->
-
-![hecker](https://github.com/user-attachments/assets/8dd82204-3913-4f9d-8981-a9bfb9acc15f)
-
-
----
 
 ## 🌐 Socials:
 
