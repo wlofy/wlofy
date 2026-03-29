@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Saad+Karim;Chef;Cooking;Burnt+it;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Saad+Karim;AI+Final+Year;Always+Learning" />
 </p>
 
 ```bash
