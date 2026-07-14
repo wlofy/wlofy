@@ -10,7 +10,7 @@
 > status: Cooking
 ```
 
-I'm a fresh Artificial Intelligence graduate from NUCES. I focus primarily on AI and everything around it — building, experimenting, and understanding how systems actually learn and behave.
+I'm a fresh Artificial Intelligence graduate from FAST NUCES. I focus primarily on AI and everything around it — building, experimenting, and understanding how systems actually learn and behave.
 
 I have some experience across the web stack, but it's not my main focus. I use it when needed to support ideas, not as the end goal.
 
