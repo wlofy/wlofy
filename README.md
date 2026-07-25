@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Saad+Karim;AI+Graduate;Always+Learning" alt="Saad Karim — AI graduate, always learning" />
-
 ### <code>saad@github ~ $ whoami</code>
 
 <img src="./assets/card.svg" width="720" alt="Terminal card: AI graduate from FAST NUCES, focused on LLMs, agents and applied ML" />
