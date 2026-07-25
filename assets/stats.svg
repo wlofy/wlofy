@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="270" viewBox="0 0 720 270" role="img"
+     aria-label="GitHub stats for wlofy">
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .num { fill: #39d353; font-size: 26px; font-weight: 600 }
+    .lbl { fill: #7d8590; font-size: 11px }
+    .lgd { fill: #c9d1d9; font-size: 12px }
+    .dim { fill: #7d8590 }
+    .row { opacity: 0; animation: in .45s ease-out forwards }
+    .r1 { animation-delay: .10s } .r2 { animation-delay: .22s } .r3 { animation-delay: .34s }
+    .r4 { animation-delay: .46s } .r5 { animation-delay: .58s } .r6 { animation-delay: .70s }
+    @keyframes in { from { opacity: 0; transform: translateY(6px) } to { opacity: 1; transform: none } }
+    .bar { transform: scaleX(0); transform-origin: left center; animation: grow .6s ease-out .5s forwards }
+    .b2 { animation-delay: .60s } .b3 { animation-delay: .70s } .b4 { animation-delay: .80s }
+    .b5 { animation-delay: .90s } .b6 { animation-delay: 1.0s }
+    @keyframes grow { to { transform: scaleX(1) } }
+    @media (prefers-reduced-motion: reduce) {
+      .row { animation: none; opacity: 1 }
+      .bar { animation: none; transform: none }
+    }
+  </style>
+
+  <rect x="1" y="1" width="718" height="268" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 11a10 10 0 0 1 10-10h698a10 10 0 0 1 10 10v27H1z" fill="#161b22"/>
+  <line x1="1" y1="38" x2="719" y2="38" stroke="#30363d"/>
+  <circle cx="22" cy="20" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="20" r="5" fill="#ffbd2e"/>
+  <circle cx="58" cy="20" r="5" fill="#27c93f"/>
+  <text class="mono" fill="#7d8590" x="82" y="25" font-size="13">saad@github: ~/stats</text>
+
+  <g class="mono">
+    <g class="row r1"><text class="num" x="84" y="96" text-anchor="middle">24</text><text class="lbl" x="84" y="118" text-anchor="middle">Repos</text></g>
+  <g class="row r2"><text class="num" x="222" y="96" text-anchor="middle">32</text><text class="lbl" x="222" y="118" text-anchor="middle">Stars</text></g>
+  <g class="row r3"><text class="num" x="360" y="96" text-anchor="middle">57</text><text class="lbl" x="360" y="118" text-anchor="middle">Commits (1y)</text></g>
+  <g class="row r4"><text class="num" x="498" y="96" text-anchor="middle">8</text><text class="lbl" x="498" y="118" text-anchor="middle">Pull requests</text></g>
+  <g class="row r5"><text class="num" x="636" y="96" text-anchor="middle">175</text><text class="lbl" x="636" y="118" text-anchor="middle">Contributions (1y)</text></g>
+  <rect class="bar b1" x="30.0" y="152" width="293.3" height="12" fill="#3572A5"/>
+  <rect class="bar b2" x="323.3" y="152" width="146.7" height="12" fill="#DA5B0B"/>
+  <rect class="bar b3" x="470.0" y="152" width="110.0" height="12" fill="#F1E05A"/>
+  <rect class="bar b4" x="580.0" y="152" width="36.7" height="12" fill="#E34C26"/>
+  <rect class="bar b5" x="616.7" y="152" width="36.7" height="12" fill="#A97BFF"/>
+  <rect class="bar b6" x="653.3" y="152" width="36.7" height="12" fill="#3178C6"/>
+  <g class="row r1"><circle cx="35" cy="196" r="5" fill="#3572A5"/><text class="lgd" x="48" y="200">Python <tspan class="dim">44%</tspan></text></g>
+  <g class="row r2"><circle cx="265" cy="196" r="5" fill="#DA5B0B"/><text class="lgd" x="278" y="200">Jupyter Notebook <tspan class="dim">22%</tspan></text></g>
+  <g class="row r3"><circle cx="495" cy="196" r="5" fill="#F1E05A"/><text class="lgd" x="508" y="200">JavaScript <tspan class="dim">17%</tspan></text></g>
+  <g class="row r4"><circle cx="35" cy="222" r="5" fill="#E34C26"/><text class="lgd" x="48" y="226">HTML <tspan class="dim">6%</tspan></text></g>
+  <g class="row r5"><circle cx="265" cy="222" r="5" fill="#A97BFF"/><text class="lgd" x="278" y="226">Kotlin <tspan class="dim">6%</tspan></text></g>
+  <g class="row r6"><circle cx="495" cy="222" r="5" fill="#3178C6"/><text class="lgd" x="508" y="226">TypeScript <tspan class="dim">6%</tspan></text></g>
+  </g>
+</svg>
