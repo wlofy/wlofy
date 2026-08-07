@@ -29,20 +29,20 @@
   <text class="mono" fill="#7d8590" x="82" y="25" font-size="13">saad@github: ~/stats</text>
 
   <g class="mono">
-    <g class="row r1"><text class="num" x="84" y="96" text-anchor="middle">21</text><text class="lbl" x="84" y="118" text-anchor="middle">Repos</text></g>
+    <g class="row r1"><text class="num" x="84" y="96" text-anchor="middle">22</text><text class="lbl" x="84" y="118" text-anchor="middle">Repos</text></g>
   <g class="row r2"><text class="num" x="222" y="96" text-anchor="middle">34</text><text class="lbl" x="222" y="118" text-anchor="middle">Stars</text></g>
-  <g class="row r3"><text class="num" x="360" y="96" text-anchor="middle">82</text><text class="lbl" x="360" y="118" text-anchor="middle">Commits (1y)</text></g>
+  <g class="row r3"><text class="num" x="360" y="96" text-anchor="middle">83</text><text class="lbl" x="360" y="118" text-anchor="middle">Commits (1y)</text></g>
   <g class="row r4"><text class="num" x="498" y="96" text-anchor="middle">12</text><text class="lbl" x="498" y="118" text-anchor="middle">Pull requests</text></g>
-  <g class="row r5"><text class="num" x="636" y="96" text-anchor="middle">201</text><text class="lbl" x="636" y="118" text-anchor="middle">Contributions (1y)</text></g>
-  <rect class="bar b1" x="30.0" y="152" width="310.6" height="12" fill="#3572A5"/>
-  <rect class="bar b2" x="340.6" y="152" width="116.5" height="12" fill="#DA5B0B"/>
-  <rect class="bar b3" x="457.1" y="152" width="116.5" height="12" fill="#F1E05A"/>
-  <rect class="bar b4" x="573.5" y="152" width="38.8" height="12" fill="#E34C26"/>
-  <rect class="bar b5" x="612.4" y="152" width="38.8" height="12" fill="#A97BFF"/>
-  <rect class="bar b6" x="651.2" y="152" width="38.8" height="12" fill="#3178C6"/>
-  <g class="row r1"><circle cx="35" cy="196" r="5" fill="#3572A5"/><text class="lgd" x="48" y="200">Python <tspan class="dim">47%</tspan></text></g>
-  <g class="row r2"><circle cx="265" cy="196" r="5" fill="#DA5B0B"/><text class="lgd" x="278" y="200">Jupyter Notebook <tspan class="dim">18%</tspan></text></g>
-  <g class="row r3"><circle cx="495" cy="196" r="5" fill="#F1E05A"/><text class="lgd" x="508" y="200">JavaScript <tspan class="dim">18%</tspan></text></g>
+  <g class="row r5"><text class="num" x="636" y="96" text-anchor="middle">203</text><text class="lbl" x="636" y="118" text-anchor="middle">Contributions (1y)</text></g>
+  <rect class="bar b1" x="30.0" y="152" width="330.0" height="12" fill="#3572A5"/>
+  <rect class="bar b2" x="360.0" y="152" width="110.0" height="12" fill="#DA5B0B"/>
+  <rect class="bar b3" x="470.0" y="152" width="110.0" height="12" fill="#F1E05A"/>
+  <rect class="bar b4" x="580.0" y="152" width="36.7" height="12" fill="#E34C26"/>
+  <rect class="bar b5" x="616.7" y="152" width="36.7" height="12" fill="#A97BFF"/>
+  <rect class="bar b6" x="653.3" y="152" width="36.7" height="12" fill="#3178C6"/>
+  <g class="row r1"><circle cx="35" cy="196" r="5" fill="#3572A5"/><text class="lgd" x="48" y="200">Python <tspan class="dim">50%</tspan></text></g>
+  <g class="row r2"><circle cx="265" cy="196" r="5" fill="#DA5B0B"/><text class="lgd" x="278" y="200">Jupyter Notebook <tspan class="dim">17%</tspan></text></g>
+  <g class="row r3"><circle cx="495" cy="196" r="5" fill="#F1E05A"/><text class="lgd" x="508" y="200">JavaScript <tspan class="dim">17%</tspan></text></g>
   <g class="row r4"><circle cx="35" cy="222" r="5" fill="#E34C26"/><text class="lgd" x="48" y="226">HTML <tspan class="dim">6%</tspan></text></g>
   <g class="row r5"><circle cx="265" cy="222" r="5" fill="#A97BFF"/><text class="lgd" x="278" y="226">Kotlin <tspan class="dim">6%</tspan></text></g>
   <g class="row r6"><circle cx="495" cy="222" r="5" fill="#3178C6"/><text class="lgd" x="508" y="226">TypeScript <tspan class="dim">6%</tspan></text></g>
