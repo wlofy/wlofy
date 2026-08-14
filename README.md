@@ -21,7 +21,7 @@ Most of what I build comes from everyday problems or curiosity. Sometimes it's p
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/wlofy/LLMPDF">LLMPDF</a> · ⭐ 31</h4>
+      <h4><a href="https://github.com/wlofy/LLMPDF">LLMPDF</a> · ⭐ 37</h4>
       LLM-based semantic extractor for PDFs — query, search and summarize documents.
       <br><br><sub><code>Python</code></sub>
     </td>
