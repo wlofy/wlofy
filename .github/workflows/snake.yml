@@ -21,16 +21,17 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Runs before snk, whose Docker container would otherwise create dist/ as root.
+      - run: python scripts/render_stats.py && mkdir -p dist && cp assets/stats.svg dist/stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - run: python scripts/render_stats.py && cp assets/stats.svg dist/stats.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
