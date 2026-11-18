@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="320" viewBox="0 0 720 320" role="img"
-     aria-label="Terminal card: Saad Karim, AI graduate from FAST NUCES, focused on LLMs, agents and applied ML.">
+     aria-label="Terminal card: Saad Karim, AI Engineer at Pine Technologies and GbeeTechive, building AI products end to end.">
   <style>
     .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
     .k { fill: #39d353; }
@@ -26,11 +26,11 @@
   <text class="mono dim" x="82" y="25" font-size="13">saad@github: ~/whoami</text>
 
   <g class="mono" font-size="14">
-    <g class="row r1"><text class="k" x="30" y="86">Now</text><text class="v" x="140" y="86">AI graduate — FAST NUCES, Pakistan</text></g>
-    <g class="row r2"><text class="k" x="30" y="118">Focus</text><text class="v" x="140" y="118">LLMs · agents · applied ML</text></g>
-    <g class="row r3"><text class="k" x="30" y="150">Stack</text><text class="v" x="140" y="150">Python · PyTorch · FastAPI · React</text></g>
-    <g class="row r4"><text class="k" x="30" y="182">Shipped</text><text class="v" x="140" y="182">LLMPDF (52★) · FilingLens · Pulse Messenger</text></g>
-    <g class="row r5"><text class="k" x="30" y="214">Loop</text><text class="v" x="140" y="214">solve → experiment → learn → repeat</text></g>
+    <g class="row r1"><text class="k" x="30" y="86">Now</text><text class="v" x="140" y="86">AI Engineer — Pine Technologies · GbeeTechive</text></g>
+    <g class="row r2"><text class="k" x="30" y="118">Focus</text><text class="v" x="140" y="118">AI products · system architecture · LLMs</text></g>
+    <g class="row r3"><text class="k" x="30" y="150">Stack</text><text class="v" x="140" y="150">Python · TypeScript · Next.js · Postgres · AWS</text></g>
+    <g class="row r4"><text class="k" x="30" y="182">Shipped</text><text class="v" x="140" y="182">LLMPDF · FilingLens · Pulse Messenger</text></g>
+    <g class="row r5"><text class="k" x="30" y="214">Loop</text><text class="v" x="140" y="214">design → build → ship → iterate</text></g>
     <g class="row r6"><text class="k" x="30" y="246">Reach</text><text class="v" x="140" y="246">saadkarim924@gmail.com</text></g>
     <g class="row r7">
       <text class="k" x="30" y="284">$</text>
